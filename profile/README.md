@@ -39,8 +39,6 @@ At HypeTeq, we offer a wide range of services to help our clients get the most o
 
 - **Data Science**: Our data science services include data analysis, predictive modeling, and machine learning, helping our clients make data-driven decisions and improve their business operations.
 
-## Our Philosophy
-
 ## Our Products
 
 We offer a range of software solutions, including:
